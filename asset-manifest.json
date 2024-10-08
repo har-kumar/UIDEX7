@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/UIDEX7/static/css/main.e391962d.css",
+    "main.js": "/UIDEX7/static/js/main.36563970.js",
+    "static/js/453.0ccb7fb4.chunk.js": "/UIDEX7/static/js/453.0ccb7fb4.chunk.js",
+    "index.html": "/UIDEX7/index.html",
+    "main.e391962d.css.map": "/UIDEX7/static/css/main.e391962d.css.map",
+    "main.36563970.js.map": "/UIDEX7/static/js/main.36563970.js.map",
+    "453.0ccb7fb4.chunk.js.map": "/UIDEX7/static/js/453.0ccb7fb4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e391962d.css",
+    "static/js/main.36563970.js"
+  ]
+}
